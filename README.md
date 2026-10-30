@@ -14,6 +14,6 @@ Formulario de inscripción al viaje educativo del ISFD y T «República Federal 
    - Ejecutar como: **Yo**
    - Quién tiene acceso: **Cualquier persona**
 4. Autorizar los permisos y copiar la **URL de la app web**.
-5. En `index.html`, reemplazar `__API__` por esa URL.
+5. En `index.html`, poner esa URL en la constante `API`.
 
 DIA · Didáctica con IA
